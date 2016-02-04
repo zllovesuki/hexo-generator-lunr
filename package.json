@@ -30,9 +30,10 @@
   },
   "license": "MIT",
   "dependencies": {
-    "lunr":"https://github.com/olivernn/lunr.js.git",
+    "lunr": "https://github.com/olivernn/lunr.js.git",
     "moment": "^2.10.6",
-    "object-assign": "^4.0.1"
+    "object-assign": "^4.0.1",
+    "striptags": "^2.1.1"
   },
   "devDependencies": {
     "chai": "^3.4.1",
